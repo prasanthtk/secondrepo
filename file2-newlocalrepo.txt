@@ -1,0 +1,1 @@
+This is file2-newlocalrepo.txt created locally
